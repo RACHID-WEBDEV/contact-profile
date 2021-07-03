@@ -279,9 +279,9 @@ Down
 @media only screen and (min-width: 0px) and (max-width: 600px) { 
 .pCard_card {
     /*max-width: 400px;*/
-    max-width: 100%;
+    max-width: 95%;
     height: 615px;
-    margin: 50px auto;
+    margin: 10px auto;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
@@ -315,6 +315,34 @@ Down
     }
 
     
+/****************
+UP
+****************/
 
-   
+/*.pCard_card .pCard_up {
+  position: absolute;
+  width: 100%;
+  height: 450px;
+  background-image: url(https://i.ibb.co/8mRnRLF/rasheed1.jpg);
+  background-position: 50%;
+  background-size: cover;
+  z-index: 3;
+  text-align: center;
+  -webkit-border-top-left-radius: 30px;
+  -moz-border-top-left-radius: 30px;
+  -ms-border-top-left-radius: 30px;
+  -o-border-top-left-radius: 30px;
+  border-top-left-radius: 30px;
+  -webkit-border-top-right-radius: 30px;
+  -moz-border-top-right-radius: 30px;
+  -ms-border-top-right-radius: 30px;
+  -o-border-top-right-radius: 30px;
+  border-top-right-radius: 30px;
+  -webkit-transition: 0.5s ease-in-out;
+  -moz-transition: 0.5s ease-in-out;
+  -ms-transition: 0.5s ease-in-out;
+  -o-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+  */ 
 }
