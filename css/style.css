@@ -279,7 +279,7 @@ Down
 @media only screen and (min-width: 0px) and (max-width: 600px) { 
 .pCard_card {
     /*max-width: 400px;*/
-    max-width: 95%;
+    max-width: 90%;
     height: 615px;
     margin: 10px auto;
     -webkit-border-radius: 30px;
